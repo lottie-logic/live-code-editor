@@ -1,0 +1,29 @@
+{
+  "name": "live-code-editor",
+  "version": "1.0.0",
+  "description": "a live Javascript code editor",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lottie-logic/live-code-editor.git"
+  },
+  "keywords": [
+    "live",
+    "code",
+    "editor",
+    "javascript"
+  ],
+  "author": "lottie-logic",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lottie-logic/live-code-editor/issues"
+  },
+  "homepage": "https://github.com/lottie-logic/live-code-editor#readme",
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-monaco-editor": "^0.55.0"
+  }
+}
